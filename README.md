@@ -51,6 +51,8 @@ The study is based on real credit data (Freddie Mac Single-Family Loan-Level Dat
 - **`XGBoost code.ipynb`** – XGBoost implementation with XAI analysis.  
 - **`CatBoost code.ipynb`** – CatBoost implementation with XAI analysis.  
 
+---
+
 ### Analysis Scope
 - Data preparation and default flag creation (`Data_preparation.ipynb`)  
 - Model building and training  
