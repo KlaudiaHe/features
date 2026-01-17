@@ -1,12 +1,7 @@
 # Porównanie modeli uczenia maszynowego w credit scoringu
 
-Repozytorium zawiera kody źródłowe i notatniki Jupyter wykorzystane w pracy magisterskiej:  
-**"Porównanie wybranych modeli uczenia maszynowego pod kątem selekcji zmiennych w procesie credit scoringu"**  
-Warszawa, 2025 – Klaudia Helena Turowska
-
 ---
 
-## Opis projektu
 Celem projektu jest analiza i porównanie różnych modeli uczenia maszynowego stosowanych w credit scoringu, ze szczególnym uwzględnieniem selekcji zmiennych i technik Explainable AI (XAI).  
 W badaniu wykorzystano rzeczywiste dane kredytowe (Freddie Mac Single-Family Loan-Level Dataset).
 
@@ -42,11 +37,6 @@ Analizy potwierdziły kluczową rolę zmiennych takich jak:
 ---
 
 # Comparison of Machine Learning Models in Credit Scoring
-
-This repository contains source code and Jupyter notebooks used in the master’s thesis:  
-**"Comparison of Selected Machine Learning Models in Variable Selection for Credit Scoring"**  
-Warsaw, 2025 – Klaudia Helena Turowska
-
 ---
 
 ## Project Description
